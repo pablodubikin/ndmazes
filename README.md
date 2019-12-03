@@ -10,8 +10,7 @@
 
 ## Status:
 
-THIS IS A WORK IN PROGRESS: first working version of the generator. I wanted to prove it could work first. 
-Now is the time to improve it.
+First working version of the generator.
 
 
 ## User Manual
