@@ -12,8 +12,7 @@
 
 First working version of the generator.
 
-
-## User Manual
+## User manual
 
 **Basic usage:**
 
